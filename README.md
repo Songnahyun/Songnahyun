@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 송나현 입니다  🙇🏻‍♀️🙌🏻
 
 <!--
 **Songnahyun/Songnahyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
